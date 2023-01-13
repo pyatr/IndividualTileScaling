@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="ITSTestObj1" Inherits="InorganicObject">
+    <part Name="Render" Tile="Test/TestImage.png" DisplayName="1x size texture"></part>
+    <part Name="Description" Short="Object with 1x texture size"></part>
+    <part Name="Commerce" Value="10"></part>
+  </object>
+  <object Name="ITSTestObj2" Inherits="InorganicObject">
+    <part Name="Render" Tile="Test/TestImage2x.png" DisplayName="2x size texture"></part>
+    <part Name="Description" Short="Object with 2x texture size"></part>
+    <part Name="Commerce" Value="40"></part>
+  </object>
+  <object Name="ITSTestObj3" Inherits="InorganicObject">
+    <part Name="Render" Tile="Test/TestImage3x.png" DisplayName="3x size texture"></part>
+    <part Name="Description" Short="Object with 3x texture size"></part>
+    <part Name="Commerce" Value="70"></part>
+  </object>
+  <object Name="ITSTestObj4" Inherits="InorganicObject">
+    <part Name="Render" Tile="Test/TestImage4x.png" DisplayName="4x size texture"></part>
+    <part Name="Description" Short="Object with 4x texture size"></part>
+    <part Name="Commerce" Value="100"></part>
+  </object>
+</objects>
