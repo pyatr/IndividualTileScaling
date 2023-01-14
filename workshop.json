@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 2917658199,
+  "Title": "Tile size scaling",
+  "Description": "This mod adds tile scaling so you could have sprites of any resolution like 32x48, 48x72, 64x96, etc.\nIt adds nothing on its own and is meant to be part of other mods.",
+  "Tags": "framework, mod base",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}
